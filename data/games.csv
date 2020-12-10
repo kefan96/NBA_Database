@@ -1,0 +1,31 @@
+game_id,game_date,host_team_id,guest_team_id,season,score,winner
+1,11/3/10,8,7,2011,102:101,Dallas Mavericks
+2,11/27/10,7,16,2011,106:95,Dallas Mavericks
+3,12/13/10,7,17,2011,99:103,Milwaukee Bucks
+4,1/5/12,1,16,2012,116:109,Miami Heat
+5,2/23/12,16,20,2012,102:88,Miami Heat
+6,4/6/12,16,15,2012,82:97,Memphis Grizzlies
+7,11/24/12,16,6,2013,110:108,Miami Heat
+8,12/31/12,22,16,2013,112:110,Miami Heat
+9,3/27/13,5,16,2013,97:101,Chicago Bulls
+10,11/1/13,14,27,2014,91:85,San Antonio Spurs
+11,2/19/14,25,27,2014,111:109,San Antonio Spurs
+12,4/14/14,11,27,2014,98:104,Houston Rockets
+13,11/21/14,10,29,2015,101:88,Golden State Warriors
+14,1/23/15,10,26,2015,126:101,Golden State Warriors
+15,3/2/15,3,10,2015,108:110,Brooklyn Nets
+16,11/17/15,9,6,2016,99:104,Detroit Pistons
+17,1/21/16,6,13,2016,115:102,Cleveland Cavaliers
+18,3/5/16,6,2,2016,120:103,Cleveland Cavaliers
+19,2/1/17,10,4,2017,126:111,Golden State Warriors
+20,2/11/17,21,10,2017,130:114,Golden State Warriors
+21,2/28/17,30,10,2017,108:112,Washington Wizards
+22,11/25/17,10,19,2018,110:95,Golden State Warriors
+23,1/23/18,10,20,2018,123:112,Golden State Warriors
+24,3/17/18,24,10,2018,124:109,Golden State Warriors
+25,12/5/19,28,23,2019,113:102,Toronto Raptors
+26,1/6/19,28,12,2019,121:105,Toronto Raptors
+27,3/22/19,28,21,2019,109:116,Oklahoma City Thunder
+28,11/1/19,7,14,2020,119:110,Los Angeles Lakers
+29,11/29/19,14,30,2020,125:103,Los Angeles Lakers
+30,12/17/19,12,14,2020,102:105,Indiana Pacers

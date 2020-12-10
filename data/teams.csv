@@ -1,0 +1,31 @@
+team_id,name,conference,division,arena_name,arena_city
+1,Atlanta Hawks,East,Southeast,State Farm Arena,Atlanta 
+2,Boston Celtics,East,Atlantic,TD Garden,Boston
+3,Brooklyn Nets,East,Atlantic,Barclays Center,Brooklyn
+4,Charlotte Hornets,East,Southeast,Spectrum Center,Charlotte
+5,Chicago Bulls,East,Central,United Center,Chicago
+6,Cleveland Cavaliers,East,Central,Rocket Mortgage FieldHouse,Cleveland
+7,Dallas Mavericks,West,Southwest,American Airlines Center,Dallas
+8,Denver Nuggets,West,Northwest,Pepsi Center,Denver
+9,Detroit Pistons,East,Central,Little Caesars Arena,Detroit
+10,Golden State Warriors,West,Pacific,Chase Center,San Francisco
+11,Houston Rockets,West,Southwest,Toyota Center,Houston
+12,Indiana Pacers,East,Central,Bankers Life Fieldhouse,Indianapolis
+13,Los Angeles Clippers,West,Pacific,Staples Center,Los Angeles
+14,Los Angeles Lakers,West,Pacific,Staples Center,Los Angeles
+15,Memphis Grizzlies,West,Southwest,FedExForum,Memphis
+16,Miami Heat,East,Southeast,American Airlines Arena,Miami
+17,Milwaukee Bucks,East,Central,Fiserv Forum,Milwaukee
+18,Minnesota Timberwolves,West,Northwest,Target Center,Minneapolis
+19,New Orleans Pelicans,West,Southwest,Smoothie King Center,New Orleans
+20,New York Knicks,East,Atlantic,Madison Square Garden,New York
+21,Oklahoma City Thunder,West,Northwest,Chesapeake Energy Arena,Oklahoma City
+22,Orlando Magic,East,Southeast,Amway Center,Orlando
+23,Philadelphia 76ers,East,Atlantic,Wells Fargo Center,Philadelphia
+24,Phoenix Suns,West,Pacific,Talking Stick Resort Arena,Phoenix
+25,Portland Trail Blazers,West,Northwest,Moda Center,Portland
+26,Sacramento Kings,West,Pacific,Golden 1 Center,Sacramento
+27,San Antonio Spurs,West,Southwest,AT&T Center,San Antonio
+28,Toronto Raptors,East,Atlantic,Scotiabank Arena,Toronto
+29,Utah Jazz,West,Northwest,Vivint Smart Home Arena,Salt Lake City
+30,Washington Wizards,East,Southeast,Capital One Arena,Washington
